@@ -180,6 +180,13 @@ npx hardhat test
 > Solo, but scaling Egypt’s blockchain leadership into a global constitution.*
 
 ---
+## 📜 License
+
+This repository is governed by the **PolyForm Noncommercial License 1.0.0 + TESL Sovereign Overlay**.  
+Source‑available, not open source.  
+Commercial or sovereign deployments require written authorization from Elmahrosa International.  
+See [LICENSE.md](./LICENSE.md).
+
 
 **TEOS-AI-Guard is the security constitution for AI-native civic infrastructure.**
 

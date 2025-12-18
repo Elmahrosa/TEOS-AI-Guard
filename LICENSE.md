@@ -4,6 +4,9 @@ SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 
 Copyright © 2025 Elmahrosa International  
 All Rights Reserved.  
+![License](https://img.shields.io/badge/license-PolyForm%20NC%20%2B%20TESL-red?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-Active-blue?style=for-the-badge)
+![Governance](https://img.shields.io/badge/governance-Sovereign%20Overlay-gold?style=for-the-badge)
 
 ---
 

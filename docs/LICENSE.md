@@ -21,10 +21,10 @@ use, copy, modify, and distribute** the Software **solely for NONCOMMERCIAL
 PURPOSES**, subject to the conditions of this License.
 
 Permitted noncommercial uses include:
-- Personal use
-- Educational use
-- Academic research
-- Evaluation, testing, or demonstration
+- Personal use  
+- Educational use  
+- Academic research  
+- Evaluation, testing, or demonstration  
 
 ---
 
@@ -90,22 +90,22 @@ the **Arab Republic of Egypt**.
 This Software is designated as **Civic Infrastructure**.
 
 Any deployment involving:
-- Government or public services
-- Financial systems
-- Identity, voting, or registries
-- AI-driven decision-making affecting humans
+- Government or public services  
+- Financial systems  
+- Identity, voting, or registries  
+- AI-driven decision-making affecting humans  
 
 **MUST**:
 - Preserve immutable audit logs  
 - Enforce KYC/AML where applicable  
 - Respect applicable jurisdictional law  
-- Align with UN Sustainable Development Goals (minimum: 8, 9, 11, 16)
+- Align with UN Sustainable Development Goals (minimum: 8, 9, 11, 16)  
 
 Egypt is designated as the **founding sovereign anchor** of the TEOS ecosystem.
 
 Reference:  
 TESL Sovereign Overlay →  
-https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md
+https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md  
 
 ---
 
@@ -113,7 +113,7 @@ https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md
 
 This repository is:
 
-**SOURCE-AVAILABLE — NOT OPEN SOURCE**
+**SOURCE-AVAILABLE — NOT OPEN SOURCE**  
 
 Use is permitted under strict noncommercial and civic conditions only.
 

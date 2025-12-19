@@ -1,6 +1,14 @@
 # TEOS-AI-Guard  
 **Compliance-first, AI-powered security & governance layer for trusted civic blockchain innovation**
-
+![Repo Size](https://img.shields.io/github/repo-size/Elmahrosa/TEOS-AI-Guard)
+![Stars](https://img.shields.io/github/stars/Elmahrosa/TEOS-AI-Guard?style=social)
+![Forks](https://img.shields.io/github/forks/Elmahrosa/TEOS-AI-Guard?style=social)
+![Issues](https://img.shields.io/github/issues/Elmahrosa/TEOS-AI-Guard)
+![License](https://img.shields.io/badge/License-PolyForm--NC-blue)
+![Compliance](https://img.shields.io/badge/Compliance-Audit--Ready-black)
+![Governance](https://img.shields.io/badge/Governance-Civic--First-green)
+![AI Policy](https://img.shields.io/badge/AI-Constitutionalized-purple)
+![SDG](https://img.shields.io/badge/UN-SDGs-orange)
 ![Compliance First](https://img.shields.io/badge/Compliance-First-blue)
 ![Civic First](https://img.shields.io/badge/Civic-First-green)
 ![AI Native](https://img.shields.io/badge/AI-Native-purple)

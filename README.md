@@ -1,64 +1,157 @@
-﻿![TEOS Sovereign Standing](https://img.shields.io/badge/Standing-Sovereign%20Original%20%E2%80%94%20Elmahrosa%20International-blue?style=for-the-badge)
-[![License: TESL](https://img.shields.io/badge/License-TESL%20%2B%20PolyForm%20Noncommercial-green?style=for-the-badge)](https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md)
-
-# 📍 Repo Standing Statement
-
-This repository is a **sovereign original** under **Elmahrosa International — TEOS Egypt**.  
-Governance is anchored in [TEOS-FORGE](https://github.com/Elmahrosa/TEOS-FORGE).  
-Commercial use requires written approval from Elmahrosa International.  
-
-⚖️ Protected under dual license: PolyForm Noncommercial + TEOS Egypt Sovereign License (TESL).
-
-# 📍 Repo Standing Statement
-
-This repository is a **sovereign original** under **Elmahrosa International — TEOS Egypt**.  
-Governance is anchored in [TEOS-FORGE](https://github.com/Elmahrosa/TEOS-FORGE).  
-Commercial use requires written approval from Elmahrosa International.  
-
-⚖️ Protected under dual license: PolyForm Noncommercial + TEOS Egypt Sovereign License (TESL).
-
-# ?? Repo Standing Statement
-
-This repository is a **sovereign original** under **Elmahrosa International � TEOS Egypt**.  
-Governance is anchored in [TEOS-FORGE](https://github.com/Elmahrosa/TEOS-FORGE).  
-Commercial use requires written approval from Elmahrosa International.  
-
-?? Protected under dual license: PolyForm Noncommercial + TEOS Egypt Sovereign License (TESL).
-
-# TEOS-AI-Guard  
-**Compliance-first, AI-powered security & governance layer for trusted civic blockchain innovation**
-![Repo Size](https://img.shields.io/github/repo-size/Elmahrosa/TEOS-AI-Guard)
-![Stars](https://img.shields.io/github/stars/Elmahrosa/TEOS-AI-Guard?style=social)
-![Forks](https://img.shields.io/github/forks/Elmahrosa/TEOS-AI-Guard?style=social)
-![Issues](https://img.shields.io/github/issues/Elmahrosa/TEOS-AI-Guard)
-![License](https://img.shields.io/badge/License-PolyForm--NC-blue)
-![Compliance](https://img.shields.io/badge/Compliance-Audit--Ready-black)
-![Governance](https://img.shields.io/badge/Governance-Civic--First-green)
-![AI Policy](https://img.shields.io/badge/AI-Constitutionalized-purple)
-![SDG](https://img.shields.io/badge/UN-SDGs-orange)
-![Compliance First](https://img.shields.io/badge/Compliance-First-blue)
-![Civic First](https://img.shields.io/badge/Civic-First-green)
-![AI Native](https://img.shields.io/badge/AI-Native-purple)
-![SDG Aligned](https://img.shields.io/badge/UN-SDGs-orange)
-![Pi Network](https://img.shields.io/badge/Identity-Pi%20Network-gold)
-![Audit Ready](https://img.shields.io/badge/Audit-Ready-black)
-
-> **We don’t ban AI. We constitutionalize it.  
-> Every commit is a civic milestone.  
-> Solo, but building Egypt’s blockchain operating system for trust.**
+# 🛡️ TEOS-AI-Guard | ELMAHROSA
+**Sovereign AI Safety, Policy Enforcement, and Runtime Controls**
 
 ---
 
-## 🌍 Vision
+## 📍 Repository Standing
 
-**TEOS-AI-Guard** is the compliance-first, AI-powered security and governance layer for all TEOS dApps and Elmahrosa products.
+This repository defines the **AI protection and enforcement layer**
+for the **TEOS / Elmahrosa Sovereign Stack**.
 
-It enforces **audit-ready identity, modular compliance, and SDG-aligned guardrails**, ensuring trusted and scalable civic innovation for governments, banks, and developers.
+It ensures that AI systems operating within TEOS remain:
+- governed by constitutional authority
+- constrained by compliance and policy
+- auditable and revocable
+- incapable of overriding human or sovereign decision authority
+
+**Founder & Owner:** Elmahrosa International — TEOS Egypt  
+**Founder Authority:** Ayman Seif
 
 ---
 
-## 🔗 Integration Summary
-This repository is part of the **Elmahrosa Sovereign Stack**.  
-Governance is anchored in **TEOS-FORGE**, with integrations across Bankchain, ERT-LAUNCH, FPBE, and other civic modules.  
-See full details in [docs/integrations.md](https://github.com/Elmahrosa/TEOS-FORGE/blob/main/docs/integrations.md).
+## Constitutional Authority (Read First)
 
+All legitimacy and authority derive from:
+
+- **International Civic Blockchain Constitution (Single Source of Truth):**  
+  https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution
+
+Governance stewardship and lifecycle control are anchored in:
+
+- **TEOS-FORGE (Stewardship Anchor):**  
+  https://github.com/Elmahrosa/TEOS-FORGE
+
+License authority is governed by:
+
+- **TEOS Egypt Sovereign License (TESL):**  
+  https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/main/LICENSE
+
+---
+
+## Sovereign Doctrine
+
+**Born in Egypt for the World**  
+*Built in Egypt. Engineered for Nations. Scaled for the World.*
+
+Elmahrosa establishes governance first.  
+Nations retain authority.  
+AI executes under control.
+
+AI is **decision-support only** and must never become a sovereign actor.
+
+---
+
+## What This Repository Is
+
+**TEOS-AI-Guard** provides the enforceable safeguards that keep AI systems compliant:
+- policy gates for AI requests and outputs
+- model/runtime restrictions (what AI may do)
+- human-in-the-loop requirements (what AI may not finalize)
+- jurisdictional controls aligned with compliance profiles
+- kill-switch and revocation pathways for incidents
+
+> This repository is **not a model**.  
+> It is a **sovereign guardrail layer** that governs model behavior and usage.
+
+---
+
+## What This Repository Is Not
+
+- Not an autonomous governance agent
+- Not a replacement for regulators or institutional policy
+- Not a permissionless “AI protocol”
+- Not an open-source safety library for unrestricted commercial reuse
+
+---
+
+## Core Responsibilities
+
+| Domain | What TEOS-AI-Guard Enforces |
+|---|---|
+| Authority | AI never approves governed actions |
+| Compliance | AI requests must pass jurisdiction checks |
+| Safety | content + action restrictions + escalation |
+| Auditability | every sensitive AI event is logged |
+| Revocation | tokens, access, and services can be suspended instantly |
+
+---
+
+## Enforcement Model (High-Level)
+
+AI safety enforcement must occur **before execution**:
+
+Request → Governance Context → Compliance Gate → AI Guard Gate → Execution → Audit
+
+If **AI Guard** blocks an action, the system must:
+- return a governed refusal
+- create an audit event
+- trigger escalation if threshold is met
+
+---
+
+## Typical Controls (Examples)
+
+### 1) Governed Output Constraints
+- No policy decisions without authority reference
+- No bypass of compliance checks
+- No “final authority” wording in outputs
+
+### 2) Action Restrictions
+- AI may recommend actions
+- AI may draft documents and analyses
+- AI may not execute irreversible operations (revocations, transfers, approvals)
+
+### 3) Human-in-the-Loop
+- Mandatory human review for:
+  - identity revocations
+  - service activation at national scope
+  - policy changes
+  - cross-border interoperability
+
+---
+
+## Ecosystem Dependencies
+
+This guard layer integrates with:
+- **Teos-Sovereign-System** (kernel authority model)
+- **TEOS-Governance** (policy rules)
+- **TEOS-Egypt-Compliance-Kit** (jurisdictional profiles)
+- **TEOS-Identity-Insight-AI** (risk signals)
+- **TEOS-API-Sovereign** (API enforcement gates)
+- **TEOS-AI-Auditor** (evidence export and audit reporting)
+
+All TEOS AI-enabled services must comply with TEOS-AI-Guard.
+
+---
+
+## ⚠️ Usage Notice
+
+Any AI integration that bypasses TEOS-AI-Guard controls,
+suppresses audit events, or escalates privileges is **non-compliant and unauthorized**.
+
+---
+
+## ⚖️ License
+
+This repository is governed exclusively by the  
+**TEOS Egypt Sovereign License (TESL)**.
+
+Canonical license (single source of truth):  
+https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/main/LICENSE
+
+---
+
+**Authority:** Elmahrosa International  
+📧 ayman@teosegypt.com  
+
+🇪🇬 *AI safety engineered in Egypt — enforceable by nations worldwide.*

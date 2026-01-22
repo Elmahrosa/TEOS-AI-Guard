@@ -1,34 +1,33 @@
-﻿# NOTICE
+# NOTICE
 
-This repository is part of the **Elmahrosa Sovereign Stack**, originated and stewarded by  
-**Elmahrosa International — TEOS Egypt**.
+This repository is the **sovereign AI safety and enforcement layer**
+of the **Elmahrosa Sovereign Stack (TEOS)**.
 
-## Licensing Framework
+It defines mandatory guardrails that ensure AI systems remain governed,
+compliant, auditable, and revocable under sovereign authority.
 
-Use of this software is governed by a **dual-license model**:
+## Constitutional Authority
 
-- **PolyForm Noncommercial License 1.0.0**  
-  For education, research, testing, and non-commercial forks.
+International Civic Blockchain Constitution (single source of legitimacy):  
+https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution
 
-- **TEOS Egypt Sovereign License (TESL)**  
-  For all commercial, governmental, institutional, or regulated deployments.
+## Governance Stewardship Anchor
 
-## TESL References
-
-- **Canonical source (single source of truth):**  
-  https://github.com/Elmahrosa/Teos-Pharaoh-Portal/blob/main/TESL.md
-
-- **Local mirror (if present):**  
-  /LICENSES/TESL.md
-
-If any discrepancy exists between the mirror and the canonical source,  
-**the canonical TESL prevails**.
-
-## Stewardship
-
-All governance, policy, and lifecycle oversight are anchored in  
-**TEOS-FORGE**:  
+TEOS-FORGE:  
 https://github.com/Elmahrosa/TEOS-FORGE
 
-For institutional pilots, licensing, or certification inquiries:  
+## License Authority
+
+TEOS Egypt Sovereign License (TESL) — canonical:  
+https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/main/LICENSE
+
+If any discrepancy exists, the canonical TESL prevails.
+
+## Restriction
+
+This repository is **source-available, not open source**.  
+Unauthorized redistribution, public hosting, or commercial use is prohibited without written authorization.
+
+## Contact
+
 📧 ayman@teosegypt.com

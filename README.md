@@ -1,225 +1,107 @@
-# 🛡️ TEOS AI Guard | ELMAHROSA
-**Sovereign AI Safety & Enforcement Control Layer**
-
----
-
-## 🏛️ Constitutional Authority
-
-This repository derives its authority from the  
-**International Civic Blockchain Constitution (ICBC)**:
-
-https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution
-
-Any implementation or use must comply with **ICBC** and **TESL**.
-
 <div align="center">
 
-![CI](https://github.com/Elmahrosa/TEOS-AI-Guard/actions/workflows/ci.yml/badge.svg?branch=main)
+# 🛡️ TEOS AI Guard
+### Sovereign AI Safety & Human-in-the-Loop Control Layer
+
 ![Standing](https://img.shields.io/badge/Standing-Sovereign%20AI%20Guard-blue?style=for-the-badge)
+![Role](https://img.shields.io/badge/Role-Safety_&_Enforcement_Gate-gold?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-TESL%20Canonical-red?style=for-the-badge)
+![Control](https://img.shields.io/badge/Authority-Human--Final-black?style=for-the-badge)
+
+**Detection is Automated. Enforcement is Institutional. Authority is Human.**
 
 </div>
 
 ---
 
-## 📍 Repository Standing
-
-This repository is the **official AI safety, control, and enforcement gate**
-of the **TEOS / Elmahrosa Sovereign Stack**.
-
-It ensures that **no AI output, recommendation, or automated signal**
-is executed without **explicit human, institutional, and sovereign approval**
-as defined by governance and compliance authority.
-
-**Authority:** Elmahrosa International — TEOS Egypt  
-**Founder:** Ayman Seif
+> ⚖️ **Governance Protocol** > This safety layer is strictly subordinate to the **International Civic Blockchain Constitution (ICBC)**.  
+> It enforces the non-negotiable boundary where AI-generated recommendations meet Human Institutional Approval.
 
 ---
 
-## 🔗 Constitutional & Governance Anchors (Read First)
+## 🏛️ Strategic Standing
+The **TEOS AI Guard** is the official safety gate of the Elmahrosa Sovereign Stack. It ensures that no AI output—whether a risk signal, a policy suggestion, or an anomaly detection—is ever executed autonomously. 
 
-All authority derives from the **International Civic Blockchain Constitution**:
+In the TEOS ecosystem, **AI does not govern.** This repository acts as the physical "Circuit Breaker" that prevents machine-originated authority from reaching the Sovereign Execution Kernel without a verified, human, institutional signature.
 
-- **ICBC — Supreme Charter (Single Source of Truth)**  
-  https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution
-
-Governance and lifecycle stewardship are anchored in:
-
-- **TEOS-FORGE — Governance & Stewardship Anchor**  
-  https://github.com/Elmahrosa/TEOS-FORGE
-
-License authority:
-
-- **TEOS Egypt Sovereign License (TESL)**  
-  https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/main/LICENSE
-
-This repository operates **strictly subordinate** to the above authorities.
+- **Mandate:** AI output control, mandatory human-in-the-loop (HITL) enforcement, and risk escalation.
+- **Authority Level:** AI Enforcement Control (Subordinate to FORGE & Compliance).
+- **Core Principle:** AI exists to assist the State, never to replace it.
 
 ---
 
-## 🧠 AI Governance Doctrine
+## 🔒 Safety Boundaries: The "Final Word" Doctrine
+To prevent autonomous "Machine Drift," TEOS-AI-Guard enforces three critical safety tiers:
 
-**Born in Egypt for the World**  
-*Built in Egypt. Engineered for Nations. Scaled for the World.*
-
-AI does **not** govern.  
-AI does **not** decide.  
-AI does **not** execute authority.
-
-AI exists solely to **assist humans and institutions**.
-
-This repository enforces **human-final authority** over all AI activity.
+1. **Detection ≠ Enforcement:** AI systems may identify a threat, but they cannot block a citizen or a transaction without an authorized human "Yes."
+2. **Credentialed Ratification:** Approvals are only valid if signed by a human officer with the correct governance "Scope" (defined in TEOS-Governance).
+3. **Automated Blocking:** If an AI recommendation violates a pre-set Constitutional or Compliance rule, the Guard blocks it **before** it even reaches a human for review.
 
 ---
 
-## 🔒 Safety Boundaries (CRITICAL — Human-in-the-Loop)
+## ✅ Core Functional Responsibilities
 
-**TEOS-AI-Guard operates under strict “Human-in-the-Loop” safety protocols.**
-
-- AI systems may **detect risks, anomalies, or threats**
-- AI systems may **generate recommendations or alerts**
-- AI systems **CANNOT take enforcement action on their own**
-- All enforcement actions require **explicit human approval**
-- All approvals are **logged, auditable, and traceable**
-
-> **Detection ≠ Enforcement**  
-> TEOS-AI-Guard is a **control gate**, not an autonomous actor.
-
-This guarantees:
-- No autonomous shutdowns  
-- No automatic sanctions  
-- No machine-originated authority  
-
-**Final authority always remains human, institutional, and sovereign.**
+| Responsibility | Institutional Value |
+| :--- | :--- |
+| **Output Interception** | Screens all AI signals for alignment with the **Compliance Kit** rules. |
+| **Human Approval Gate** | Provides the interface for institutional officers to ratify or reject AI signals. |
+| **Autonomous Prevention** | Technical locks that prevent any script from executing without a human-signed JWT. |
+| **Risk Escalation** | Automatically alerts senior stewards when high-risk anomalies are detected. |
+| **Safety Evidence** | Generates the "Decision Logs" consumed by the **TEOS-AI-Auditor**. |
 
 ---
 
-## ✅ What This Repository Is
-
-**TEOS AI Guard** is the **mandatory safety and control layer**
-between AI systems and sovereign execution.
-
-It is responsible for:
-
-- Blocking unauthorized or unsafe AI outputs
-- Enforcing human-in-the-loop approval
-- Applying governance and compliance constraints
-- Preventing autonomous execution
-- Triggering escalation, suspension, or review
-- Emitting safety evidence for audit
-
-> No AI-generated output may reach execution  
-> without passing through **TEOS-AI-Guard**.
-
----
-
-## ❌ What This Repository Is Not
-
-- ❌ An AI model or LLM  
-- ❌ A data collection platform  
-- ❌ An autonomous decision engine  
-- ❌ A replacement for law or governance  
-
----
-
-## 🔗 Mandatory Enforcement Chain
-
-All AI-assisted actions **must** follow this chain:
+## 🔗 The Mandatory Enforcement Chain
+The Guard is the final decision point before an action is logged and executed.
 
 ```text
-International Civic Blockchain Constitution (ICBC)
-        ↓
-    TEOS-FORGE
-        ↓
- TEOS-Governance
-        ↓
- TEOS Egypt Compliance Kit
-        ↓
- TEOS AI Guard   [Human-in-the-Loop Control]
-        ↓
- TEOS AI Auditor (Evidence & Traceability)
-        ↓
- Teos Sovereign System (Execution)
-        ↓
- APIs / SDKs / Services
-````
+1. Supreme Constitution (ICBC)
+      ↓
+2. TEOS-FORGE (Stewardship Anchor)
+      ↓
+3. TEOS COMPLIANCE KIT (Jurisdictional Rules)
+      ↓
+4. TEOS AI-GUARD [The Human Gate]
+      ↓
+5. TEOS AI-AUDITOR (Forensic Evidence)
+      ↓
+6. Teos Sovereign System (Execution)
 
-Any AI action bypassing this layer is
-**invalid, non-compliant, and unauthorized**.
-
----
-
-## ⚙️ Core Responsibilities
-
-| Domain             | Responsibility                          |
-| ------------------ | --------------------------------------- |
-| AI Output Control  | Block / allow AI recommendations        |
-| Human Approval     | Mandatory human-in-the-loop enforcement |
-| Policy Binding     | Apply governance & compliance rules     |
-| Risk Escalation    | Trigger alerts, suspension, review      |
-| Execution Blocking | Prevent autonomous execution            |
-| Safety Evidence    | Emit logs for TEOS AI Auditor           |
+```
 
 ---
 
 ## 🧩 Supported AI Domains
 
-* Identity risk & anomaly detection
-* Compliance analysis
-* Fraud & abuse signals
-* Civic decision support
-* Financial & regulatory analytics
-* Governmental automation (**assisted only**)
-
----
-
-## 🧭 Core Principles
-
-1. Human authority before AI
-2. Governance before automation
-3. Law before algorithm
-4. Safety before scale
-5. Sovereignty before efficiency
-
----
-
-## 🔗 Ecosystem Integration
-
-This repository integrates under governance control with:
-
-* **TEOS-Governance** — authority & policy
-* **TEOS Egypt Compliance Kit** — legal enforcement
-* **TEOS-Identity-Insight-AI** — analytics & signals
-* **TEOS-AI-Auditor** — evidence & traceability
-* **Teos Sovereign System** — execution backbone
-
-All integrations remain subject to sovereign enforcement.
-
----
-
-## ⚠️ Usage Notice
-
-Any AI system operating outside **TEOS-AI-Guard**
-is considered **unsafe, unauthorized, and invalid**
-within the TEOS ecosystem.
-
-AI outputs are **non-binding** until approved.
-**Final authority remains human, institutional, and sovereign.**
+* **Identity Defense:** Human ratification of fraud alerts and DID revocations.
+* **Financial Oversight:** Approval of high-value transaction monitoring signals.
+* **Civic Policy:** Review of AI-assisted resource allocation or registry updates.
+* **Regulatory Compliance:** Verification of automated audit flags.
 
 ---
 
 ## ⚖️ License & Authority
 
-This repository is governed **exclusively** by the
-**TEOS Egypt Sovereign License (TESL)**.
+Governed exclusively by the **TEOS Egypt Sovereign License (TESL)**.
 
-* **Canonical License:**
-  [https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/main/LICENSE](https://github.com/Elmahrosa/International-Civic-Blockchain-Constitution/blob/main/LICENSE)
+* **Auditability:** Source-available for security and ethical AI audits.
+* **Sovereignty:** Ensures that national decision-making remains in human hands.
+* **Rights Holder:** Elmahrosa International.
 
-* **Status:** Proprietary • Source-Available
+---
 
-* **Authority:** Elmahrosa International
+<div align="center">
 
-📧 [ayman@teosegypt.com](mailto:ayman@teosegypt.com)
+**Founder:** Ayman Seif
 
-🇪🇬 *AI safety built in Egypt — human-controlled, law-bound, and sovereign.*
+**Authority:** Elmahrosa International
+
+[Safety Inquiry](mailto:ayman@teosegypt.com) | [Sovereign Infrastructure](https://teosegypt.com)
+
+*“AI safety built in Egypt. Human-controlled, law-bound, and sovereign.”*
+
+</div>
+
+```
+
+```
